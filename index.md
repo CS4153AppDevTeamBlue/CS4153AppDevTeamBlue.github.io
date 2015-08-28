@@ -14,13 +14,26 @@ Insert information about the project here!
 
 ##The Team
 
+[Project roles](roles.html)
+
 ###Lead
 
-TBD
+Derrian
 
-###Team Members
+###Architect
 
-Insert Roles Here
+Kevin
+
+###UI/UX
+
+Nathan
+
+Deephti
+
+###Graphics/Testing
+
+Connor
+
 
 ####Post List
 
